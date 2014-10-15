@@ -6,10 +6,10 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-  <head>dddddddddd
+  <head>
     <base href="<%=basePath%>">
     
-    <title>删除信息</title>
+    <title>删除信息eeee</title>
     
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="cache-control" content="no-cache">
