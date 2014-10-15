@@ -19,7 +19,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body style="padding:30px; font-size:18px; text-align:center;">
-<div style="font-size:24px">书籍修改成功</div><br><br>
+<div style="font-size:24px">书籍修改成eeeeee功</div><br><br>
 
 页面自动 <a id="href" href="index">跳转</a>到首页 等待时间： <b id="wait">2</b>
 <script type="text/javascript">
